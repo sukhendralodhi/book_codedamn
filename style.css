@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+li {
+    width: 50px;
+}
+.info {
+    padding: 5px;
+    font-size: 0.8rem;
+}
+.edit {
+    background-color: green;
+    padding: 3px 8px;
+    margin: 0 5px;
+    font-size: 0.5rem;
+    max-width: 50px;
+    cursor: pointer;
+}
+.delete {
+    background-color: red;
+    padding: 3px 8px;
+    margin: 0 5px;
+    font-size: 0.5rem;
+    max-width: 50px;
+    cursor: pointer;
+}
+button {
+    margin-left: 5px;
+}
